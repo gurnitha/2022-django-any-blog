@@ -122,3 +122,14 @@ Build Any Blog using Django v3.2.7
         renamed:    templates/blog/pagination.html -> templates/posts/pagination.html
         renamed:    templates/blog/posts.html -> templates/posts/posts.html
         modified:   templates/shared/header.html
+
+
+#### 11. Create single post page: template, views, urls and links
+
+        modified:   README.md
+        modified:   apps/posts/urls.py
+        modified:   apps/posts/views.py
+        modified:   templates/home/featured-posts.html
+        new file:   templates/post-single.html
+        modified:   templates/posts/posts.html
+        modified:   templates/shared/header.html
