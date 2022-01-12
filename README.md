@@ -51,3 +51,10 @@ Build Any Blog using Django v3.2.7
         ...
         new file:   static_in_env/vendor/popper.js/umd/poppper.js.flow
         modified:   templates/index.html
+
+
+#### 5. Create and use base template
+
+        modified:   README.md
+        new file:   templates/base.html
+        modified:   templates/index.html 
