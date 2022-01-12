@@ -139,3 +139,12 @@ Build Any Blog using Django v3.2.7
 
         modified:   README.md
         modified:   config/settings.py
+
+
+#### 13. Setting up production's path for MEDIA and STATIC root
+
+        modified:   README.md
+        modified:   apps/posts/admin.py
+        modified:   apps/posts/models.py
+        modified:   config/urls.py
+
