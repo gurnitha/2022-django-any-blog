@@ -81,3 +81,10 @@ Build Any Blog using Django v3.2.7
         new file:   templates/home/latest-posts.html
         new file:   templates/home/newsletter.html
         modified:   templates/index.html
+
+
+#### 8. Adding page title
+
+        modified:   README.md
+        modified:   templates/base.html
+        modified:   templates/index.html 
