@@ -6,5 +6,5 @@ def index(request):
 	return render(request, 'index.html')
 
 
-def blog(request):
-	return render(request, 'blog.html')
+def posts_list(request):
+	return render(request, 'posts-list.html')
