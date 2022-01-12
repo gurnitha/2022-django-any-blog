@@ -41,3 +41,13 @@ Build Any Blog using Django v3.2.7
         modified:   config/settings.py
         modified:   config/urls.py
         new file:   templates/index.html
+
+
+#### 4. Adding and loading static files
+
+        modified:   README.md
+        modified:   config/settings.py
+        new file:   static_in_env/css/custom.css
+        ...
+        new file:   static_in_env/vendor/popper.js/umd/poppper.js.flow
+        modified:   templates/index.html
