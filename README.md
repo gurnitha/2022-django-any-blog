@@ -31,3 +31,13 @@ Build Any Blog using Django v3.2.7
         new file:   apps/posts/tests.py
         new file:   apps/posts/views.py
         modified:   config/settings.py
+
+
+#### 3. Create home page: templates, views and urls 
+
+        modified:   README.md
+        new file:   apps/posts/urls.py
+        modified:   apps/posts/views.py
+        modified:   config/settings.py
+        modified:   config/urls.py
+        new file:   templates/index.html
