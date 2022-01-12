@@ -88,3 +88,14 @@ Build Any Blog using Django v3.2.7
         modified:   README.md
         modified:   templates/base.html
         modified:   templates/index.html 
+
+
+#### 9. Creating blog page: template, views, urls
+
+        modified:   README.md
+        modified:   apps/posts/urls.py
+        modified:   apps/posts/views.py
+        new file:   static_in_env/favicon.ico
+        new file:   templates/blog.html
+        modified:   templates/shared/head.html
+        modified:   templates/shared/header.html
