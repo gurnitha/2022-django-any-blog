@@ -133,3 +133,9 @@ Build Any Blog using Django v3.2.7
         new file:   templates/post-single.html
         modified:   templates/posts/posts.html
         modified:   templates/shared/header.html
+
+
+#### 12. Setting up postgres database
+
+        modified:   README.md
+        modified:   config/settings.py
