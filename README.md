@@ -99,3 +99,15 @@ Build Any Blog using Django v3.2.7
         new file:   templates/blog.html
         modified:   templates/shared/head.html
         modified:   templates/shared/header.html
+
+
+#### 10. Refactor blog template
+
+        modified:   README.md
+        modified:   templates/blog.html
+        new file:   templates/blog/categories.html
+        new file:   templates/blog/latest-posts.html
+        new file:   templates/blog/pagination.html
+        new file:   templates/blog/posts.html
+        new file:   templates/blog/search.html
+        new file:   templates/blog/tags.html
