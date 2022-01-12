@@ -111,3 +111,13 @@ Build Any Blog using Django v3.2.7
         new file:   templates/blog/posts.html
         new file:   templates/blog/search.html
         new file:   templates/blog/tags.html
+
+
+#### 10. Moving aside files from blog folder to shared folder
+
+        modified:   README.md
+        modified:   templates/blog.html
+        new file:   templates/shared/aside-categories.html
+        renamed:    templates/blog/latest-posts.html -> templates/shared/aside-latest-posts.html
+        renamed:    templates/blog/search.html -> templates/shared/aside-search.html
+        renamed:    templates/blog/tags.html -> templates/shared/aside-tags.html
