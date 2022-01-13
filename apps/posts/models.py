@@ -83,3 +83,17 @@ class Post(models.Model):
 		return reverse('posts:post_single', kwargs={
 			'id':self.id 
 		})
+
+
+# Gallery images
+class Gallery(models.Model):
+	title = models.CharField(max_length=100, blank=True, null=True)
+	image = models.ImageField(upload_to='gallery/%Y/%m/%d')
+	timestamp 		= models.DateTimeField(auto_now_add=True)
+
+	class Meta:
+		verbose_name = 'Gallery'
+		verbose_name_plural = 'Galleries'
+
+	def __str__(self):
+		return self.title

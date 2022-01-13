@@ -221,3 +221,17 @@ Build Any Blog using Django v3.2.7
         modified:   templates/home/newsletter.html
 
 
+#### 25. Image Gallery: Create Gallery model, run migration, load on view method and display
+
+        modified:   README.md
+        modified:   apps/marketing/migrations/0001_initial.py
+        modified:   apps/posts/admin.py
+        modified:   apps/posts/migrations/0001_initial.py
+        modified:   apps/posts/models.py
+        modified:   apps/posts/views.py
+        ...
+        new file:   media/avatar-1_NaTtjVc.jpg
+        new file:   media/avatar-1_VfYRVOY.jpg
+        new file:   media/gallery/2022/01/13/gallery-2.jpeg
+        modified:   templates/home/gallery.html
+
