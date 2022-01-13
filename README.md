@@ -267,3 +267,10 @@ Build Any Blog using Django v3.2.7
         modified:   README.md
         modified:   apps/posts/views.py
         modified:   templates/shared/aside-categories.html
+
+
+#### 29. Create get_tag_count view, Load, Count and display them
+
+        modified:   README.md
+        modified:   apps/posts/views.py
+        modified:   templates/shared/aside-tags.html
