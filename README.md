@@ -124,24 +124,29 @@ Build Any Blog using Django v3.2.7
         modified:   templates/shared/header.html
 
 
-#### 12. Create single post page: template, views, urls and links
+#### 12. Rename files and folder from blog to post in templates folder
+
+        modified:   README.md
+        modified:   templates/posts/posts.html
+
+
+#### 13. Create single post page: template, views, urls and links
 
         modified:   README.md
         modified:   apps/posts/urls.py
         modified:   apps/posts/views.py
         modified:   templates/home/featured-posts.html
         new file:   templates/post-single.html
-        modified:   templates/posts/posts.html
         modified:   templates/shared/header.html
 
 
-#### 13. Setting up postgres database
+#### 14. Setting up postgres database
 
         modified:   README.md
         modified:   config/settings.py
 
 
-#### 14. Setting up production's path for MEDIA and STATIC root
+#### 15. Setting up production's path for MEDIA and STATIC root
 
         modified:   README.md
         modified:   apps/posts/admin.py
@@ -149,8 +154,11 @@ Build Any Blog using Django v3.2.7
         modified:   config/urls.py
 
 
-#### 15. House Keeping: modified README.md file
+#### 16. House Keeping: modified README.md file
 
         modified:   README.md
 
 
+#### 17. House Keeping: modified README.md file
+
+        modified:   README.md
