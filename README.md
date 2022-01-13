@@ -235,3 +235,23 @@ Build Any Blog using Django v3.2.7
         new file:   media/gallery/2022/01/13/gallery-2.jpeg
         modified:   templates/home/gallery.html
 
+
+#### 26. Load and display all posts to posts-list page
+
+        modified:   README.md
+        modified:   apps/posts/views.py
+        new file:   media/django3.jpeg
+        new file:   media/ing.PNG
+        new file:   media/mongodb.jpg
+        new file:   media/postgresql-card.png
+        new file:   media/python.jpeg
+        modified:   templates/home/featured-posts.html
+        modified:   templates/home/latest-posts.html
+        renamed:    templates/posts/categories.html -> templates/posts/inc/categories.html
+        renamed:    templates/posts/pagination.html -> templates/posts/inc/pagination.html
+        new file:   templates/posts/inc/posts.html
+        new file:   templates/posts/post-single.html
+        new file:   templates/posts/posts-list.html
+        deleted:    templates/posts/posts.html
+
+
