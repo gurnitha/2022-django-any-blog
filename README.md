@@ -274,3 +274,10 @@ Build Any Blog using Django v3.2.7
         modified:   README.md
         modified:   apps/posts/views.py
         modified:   templates/shared/aside-tags.html
+
+
+#### 30. Pagination 
+
+        modified:   README.md
+        modified:   apps/posts/views.py
+        modified:   templates/posts/inc/pagination.html
