@@ -255,3 +255,9 @@ Build Any Blog using Django v3.2.7
         deleted:    templates/posts/posts.html
 
 
+#### 27. Load and display latest posts on aside of the posts-list page
+
+        modified:   README.md
+        modified:   apps/posts/views.py
+        modified:   templates/shared/aside-latest-posts.html 
+
