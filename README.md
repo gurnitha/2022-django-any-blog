@@ -261,3 +261,9 @@ Build Any Blog using Django v3.2.7
         modified:   apps/posts/views.py
         modified:   templates/shared/aside-latest-posts.html 
 
+
+#### 28. Create get_category_count view, Load, Count and display them
+
+        modified:   README.md
+        modified:   apps/posts/views.py
+        modified:   templates/shared/aside-categories.html
