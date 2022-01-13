@@ -178,3 +178,9 @@ Build Any Blog using Django v3.2.7
         modified:   apps/posts/admin.py
         new file:   apps/posts/migrations/0001_initial.py
         modified:   apps/posts/models.py
+
+
+#### 20. Making the slug field in post table prepopulated_fields
+
+        modified:   README.md
+        modified:   apps/posts/admin.py
