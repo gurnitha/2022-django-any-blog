@@ -202,3 +202,10 @@ Build Any Blog using Django v3.2.7
         modified:   README.md
         modified:   apps/posts/views.py
         modified:   templates/home/featured-posts.html
+
+
+#### 23. Load and display latest posts
+
+        modified:   README.md
+        modified:   apps/posts/views.py
+        modified:   templates/home/latest-posts.html
