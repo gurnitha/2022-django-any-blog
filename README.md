@@ -162,3 +162,12 @@ Build Any Blog using Django v3.2.7
 #### 17. House Keeping: modified README.md file
 
         modified:   README.md
+
+
+#### 18. Re-setting up STATIC and MEDIA files
+
+        modified:   README.md
+        modified:   config/settings.py
+        ...
+        renamed:    static_in_env/vendor/popper.js/umd/poppper.js.flow -> config/static/vendor/popper.js/umd/poppper.js.flow
+
