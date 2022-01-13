@@ -171,3 +171,10 @@ Build Any Blog using Django v3.2.7
         ...
         renamed:    static_in_env/vendor/popper.js/umd/poppper.js.flow -> config/static/vendor/popper.js/umd/poppper.js.flow
 
+
+#### 19. Create Author, Category, Tag and Post models, register them to admin and run migrations
+
+        modified:   README.md
+        modified:   apps/posts/admin.py
+        new file:   apps/posts/migrations/0001_initial.py
+        modified:   apps/posts/models.py
