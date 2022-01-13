@@ -113,7 +113,7 @@ Build Any Blog using Django v3.2.7
         new file:   templates/blog/tags.html
 
 
-#### 10. Moving aside files from blog folder to shared folder
+#### 11. Moving aside files from blog folder to shared folder
 
         modified:   apps/posts/urls.py
         modified:   apps/posts/views.py
@@ -124,7 +124,7 @@ Build Any Blog using Django v3.2.7
         modified:   templates/shared/header.html
 
 
-#### 11. Create single post page: template, views, urls and links
+#### 12. Create single post page: template, views, urls and links
 
         modified:   README.md
         modified:   apps/posts/urls.py
@@ -135,16 +135,22 @@ Build Any Blog using Django v3.2.7
         modified:   templates/shared/header.html
 
 
-#### 12. Setting up postgres database
+#### 13. Setting up postgres database
 
         modified:   README.md
         modified:   config/settings.py
 
 
-#### 13. Setting up production's path for MEDIA and STATIC root
+#### 14. Setting up production's path for MEDIA and STATIC root
 
         modified:   README.md
         modified:   apps/posts/admin.py
         modified:   apps/posts/models.py
         modified:   config/urls.py
+
+
+#### 15. House Keeping: modified README.md file
+
+        modified:   README.md
+
 
