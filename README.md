@@ -195,3 +195,10 @@ Build Any Blog using Django v3.2.7
         new file:   media/featured-pic-1.jpeg
         new file:   media/featured-pic-2.jpeg
         new file:   media/featured-pic-3.jpeg
+
+
+#### 22. Load and display featured posts
+
+        modified:   README.md
+        modified:   apps/posts/views.py
+        modified:   templates/home/featured-posts.html
