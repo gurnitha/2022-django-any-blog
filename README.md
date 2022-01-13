@@ -209,3 +209,15 @@ Build Any Blog using Django v3.2.7
         modified:   README.md
         modified:   apps/posts/views.py
         modified:   templates/home/latest-posts.html
+
+
+#### 24. Create Singup model, and add functionality to Subscribe Newsletter and testing
+
+        modified:   README.md
+        modified:   apps/marketing/admin.py
+        new file:   apps/marketing/migrations/0001_initial.py
+        modified:   apps/marketing/models.py
+        modified:   apps/posts/views.py
+        modified:   templates/home/newsletter.html
+
+
