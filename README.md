@@ -184,3 +184,14 @@ Build Any Blog using Django v3.2.7
 
         modified:   README.md
         modified:   apps/posts/admin.py
+
+
+#### 21. Create authors, categories, tags and posts in the admin panel
+
+        modified:   README.md
+        new file:   media/avatar-1.jpg
+        new file:   media/avatar-2.jpg
+        new file:   media/avatar-3.jpg
+        new file:   media/featured-pic-1.jpeg
+        new file:   media/featured-pic-2.jpeg
+        new file:   media/featured-pic-3.jpeg
